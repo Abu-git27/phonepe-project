@@ -7,7 +7,7 @@ def get_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="your_password",  # Change as needed
+        password="12345",  # Change as needed
         database="phonepe_db"
     )
 
