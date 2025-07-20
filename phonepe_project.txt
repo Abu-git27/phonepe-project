@@ -1,0 +1,6 @@
+phonepe_project/
+├── pages/
+│   ├── 1_Charts.py
+│   ├── 2_Raw_Data.py
+│   └── 3_Insights.py
+├── dashboard.py   ← This will be your Home page
